@@ -20,6 +20,6 @@ Check if the containers are up:
 
 Now access Kibana from browser:
 
-- http://<yourpublicip>:5601
+- http://yourpublicip:5601
 
 That it's, Have fun!
